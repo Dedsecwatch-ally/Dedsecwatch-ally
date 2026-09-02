@@ -1,5 +1,5 @@
 ##
-Hi, I’m Ayushman 👋
+Hi, I’m Ayushman 
 
 I’m a full-stack developer focused on building modern, scalable web applications with a strong emphasis on UI/UX. I work across the spectrum — from rich, animation-driven interfaces with smooth scrolling to lightweight, performance-optimized websites with a refined aesthetic. I also train and experiment with AI models.
 
@@ -9,8 +9,8 @@ Java · Spring Boot · React · TypeScript · Framer Motion
 I value clean architecture, maintainable code, and purposeful animations that enhance user experience rather than distract from it.
 
 Beyond code:
-🎮 Avid video gamer
-🥾 Passionate about trekking and exploring the outdoors
+Avid video gamer
+Passionate about trekking and exploring the outdoors
 
 
 <!--
